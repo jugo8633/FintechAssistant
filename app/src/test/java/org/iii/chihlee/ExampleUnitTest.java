@@ -1,4 +1,4 @@
-package org.iii.fintechassistant;
+package org.iii.chihlee;
 
 import org.junit.Test;
 
